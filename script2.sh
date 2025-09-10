@@ -1,2 +1,2 @@
 #!/bin/bash
- its second script
+ rebase branch update the script2.sh
